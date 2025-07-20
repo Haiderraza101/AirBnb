@@ -1,9 +1,10 @@
+import Searchbar from "@/components/Searchbar";
 import Image from "next/image";
 
 export default function Home() {
   return (
     <div>
-      Home Page
+      <Searchbar></Searchbar>
     </div>
   );
 }

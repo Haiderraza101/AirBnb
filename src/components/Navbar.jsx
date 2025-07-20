@@ -6,7 +6,7 @@ export default function Navbar() {
   const [menuopen, setmenuopen] = useState(false);
   return (
     <div
-      className="w-full shadow-md sticky top-0 z-50  bg-gray-50
+      className="w-full  sticky top-0 z-50  bg-gray-50
     px-4 py-4"
     >
       <div className="max-w-7xl mx-auto px-4 md:px-8">
@@ -14,6 +14,7 @@ export default function Navbar() {
           <div className="flex-shrink-0">
             <Image
               src="/airbnblogo.png"
+              alt="Airbnb logo"
               width={120}
               height={60}
               className="h-auto"
