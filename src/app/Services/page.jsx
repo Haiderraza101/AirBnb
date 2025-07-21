@@ -7,7 +7,7 @@ export default function ServicesPage() {
     <div>
       <h2 className="text-lg font-semibold mt-8 mb-4 ml-8">
         Photography{" "}
-        <Link className="text-sm text-black" href="/AllExperiences">
+        <Link className="text-sm text-black" href="/AllPhotographs">
           &gt;
         </Link>
       </h2>

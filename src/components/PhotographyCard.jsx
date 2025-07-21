@@ -1,4 +1,4 @@
-export default function HomeCard({ photography }) {
+export default function PhotographyCard({ photography }) {
   return (
     <div className="rounded-xl overflow-hidden shadow-sm border hover:shadow-lg transition duration-300 bg-white min-w-[250px] border-gray-200">
       <div className="relative h-48 w-full">

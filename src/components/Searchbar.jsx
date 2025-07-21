@@ -5,7 +5,7 @@ export default function Searchbar() {
     <div className="bg-gray-50 px-4 py-8 flex justify-center shadow-md">
       <div className="bg-white w-full max-w-6xl rounded-xl sm:rounded-full border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
         <div className="flex flex-col sm:flex-row divide-y sm:divide-y-0 sm:divide-x divide-gray-200">
-          <div className="flex-1 py-4 px-6 hover:bg-gray-200 cursor-pointer rounded-t-full sm:rounded-l-full sm:rounded-tr-none transition">
+          <div className="flex-1 py-4 px-6 hover:bg-gray-200 cursor-pointer rounded-t-full sm:rounded-l-full sm:rounded-tr-none hover:rounded-t-none transition">
             <div className="text-xs font-semibold text-gray-800">Where</div>
             <input
               type="text"
@@ -32,7 +32,7 @@ export default function Searchbar() {
             />
           </div>
 
-          <div className="flex-1 py-4 px-6 hover:bg-gray-200 cursor-pointer rounded-b-full sm:rounded-r-full sm:rounded-bl-none transition flex items-center justify-between ">
+          <div className="flex-1 py-4 px-6 hover:bg-gray-200 cursor-pointer  sm:rounded-r-full sm:rounded-bl-none transition flex items-center justify-between hover:rounded-t-none">
             <div>
               <div className="text-xs font-semibold text-gray-800">Who</div>
               <input

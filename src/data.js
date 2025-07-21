@@ -162,7 +162,9 @@ export const photography = [
     rating: "4.94",
     location: "Rome, Italy",
     host: "Vintage Car Tours",
-    imageUrl: "/",
+    imageUrl: "/photography1a.png",
+    imageUrl2:"/photography1b.png",
+    imageUrl3:"/photography1c.png",
   },
   {
     id: 2,
@@ -171,7 +173,9 @@ export const photography = [
     rating: "5.0",
     location: "New York, United States",
     host: "Met Museum Photography",
-    imageUrl: "/",
+    imageUrl: "/photography2a.png",
+    imageUrl2:"/photography2b.png",
+    imageUrl3:"/photography2c.png",
   },
   {
     id: 3,
@@ -179,7 +183,9 @@ export const photography = [
     price: "From $105 / guest",
     location: "Cannes, France",
     host: "Claire",
-    imageUrl: "/",
+    imageUrl: "/photography3a.png",
+    imageUrl2:"/photography3b.png",
+    imageUrl3:"/photography3c.png",
   },
   {
     id: 4,
@@ -187,7 +193,9 @@ export const photography = [
     price: "From $250 / group",
     location: "Fort Lauderdale, United States",
     host: "Daniel",
-    imageUrl: "/",
+    imageUrl: "/photography4a.png",
+    imageUrl2:"/photography4b.png",
+    imageUrl3:"/photography4c.png",
   },
   {
     id: 5,
@@ -195,7 +203,9 @@ export const photography = [
     price: "From $47 / guest ($87 minimum)",
     location: "Naples, Italy",
     host: "Giovanni",
-    imageUrl: "/",
+    imageUrl: "/photography5a.png",
+    imageUrl2:"/photography5b.png",
+    imageUrl3:"/photography5c.png",
   },
   {
     id: 6,
@@ -203,7 +213,9 @@ export const photography = [
     price: "From $90 / guest",
     location: "Saint Paul, United States",
     host: "Ashley",
-    imageUrl: "/",
+    imageUrl: "/photography6a.png",
+    imageUrl2:"/photography6b.png",
+    imageUrl3:"/photography6c.png",
   },
   {
     id: 7,
@@ -211,7 +223,9 @@ export const photography = [
     price: "From $69 / group",
     location: "Mexico City, Mexico",
     host: "J.C",
-    imageUrl: "/",
+    imageUrl: "/photography7a.png",
+    imageUrl2:"/photography7b.png",
+    imageUrl3:"/photography7c.png",
   },
   {
     id: 8,
@@ -219,7 +233,9 @@ export const photography = [
     price: "From $396 / group",
     location: "Greater London, United Kingdom",
     host: "Jeff",
-    imageUrl: "/",
+    imageUrl: "/photography8a.png",
+    imageUrl2:"/photography8b.png",
+    imageUrl3:"/photography8c.png",
   }
 ];
 
@@ -312,5 +328,81 @@ export const homesinIslamabad = [
     imageUrl3: "/isb8kitchen.png",
     imageUrl4: "/isb8bathroom.png",
     imageUrl5: "/isb8exterior.png"
+  }
+];
+
+
+export const experienceindubai = [
+  {
+    id: 1,
+    title: "Luxury desert safari in Dubai",
+    price: "From $41 / guest",
+    rating: "4.37",
+    imageUrl: "/dubai1a.png",
+    imageUrl2: "/dubai1b.png",
+    imageUrl3: "/dubai1c.png"
+  },
+  {
+    id: 2,
+    title: "Premium Sunset Desert Tour, Sandboard & BBQ Dinner",
+    price: "From $42 / guest",
+    rating: "4.32",
+    imageUrl: "/dubai2a.png",
+    imageUrl2: "/dubai2b.png",
+    imageUrl3: "/dubai2c.png"
+  },
+  {
+    id: 3,
+    title: "Explore the desert by quad, sandboard & camel",
+    price: "From $48 / guest",
+    rating: "4.32",
+    imageUrl: "/dubai3a.png",
+    imageUrl2: "/dubai3b.png",
+    imageUrl3: "/dubai3c.png"
+  },
+  {
+    id: 4,
+    title: "Morning Desert Tour With Quad Bike & Sandboard",
+    price: "From $41 / guest",
+    rating: "4.32",
+     imageUrl: "/dubai4a.png",
+    imageUrl2: "/dubai4b.png",
+    imageUrl3: "/dubai4c.png"
+  },
+  {
+    id: 5,
+    title: "Desert Safari with BBQ dinner, Live shows & drinks",
+    price: "From $41 / guest",
+    rating: "4.33",
+    imageUrl: "/dubai5a.png",
+    imageUrl2: "/dubai5b.png",
+    imageUrl3: "/dubai5c.png"
+  },
+  {
+    id: 6,
+    title: "Premium Sunset Tour, ATV Ride & Live BBQ Dinner",
+    price: "From $51 / guest",
+    rating: "4.33",
+   imageUrl: "/dubai6a.png",
+    imageUrl2: "/dubai6b.png",
+    imageUrl3: "/dubai6c.png"
+  },
+  {
+    id: 7,
+    title: "Cruise to Burj Al Arab and Palm Atlantis",
+    price: "From $27 / guest",
+    rating: "4.32",
+    imageUrl: "/dubai7a.png",
+    imageUrl2: "/dubai7b.png",
+    imageUrl3: "/dubai7c.png"
+  },
+  {
+    id: 8,
+    title: "Ride dune buggies and dine in the Dubai desert",
+    price: "From $61 / guest",
+    rating: "4.97",
+   imageUrl: "/dubai8a.png",
+    imageUrl2: "/dubai8b.png",
+    imageUrl3: "/dubai8c.png"
   }
 ];

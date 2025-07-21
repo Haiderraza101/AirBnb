@@ -1,3 +1,3 @@
-export default function Originals({ children }) {
+export default function LondonLayout({ children }) {
   return <div>{children}</div>;
 }
