@@ -13,7 +13,12 @@ export default function Navbar() {
 
   const handleClick = (item) => {
     setselected(item);
-    router.push(`/${item}`);
+    if (item === "Homes") {
+      router.push("/");
+    } else {
+      router.push(`/${item}`);
+    }
+
     setmenuopen(false);
   };
 

@@ -17,22 +17,22 @@ export default async function HomeDetailPage(_props) {
             alt="Main room"
             width={300}
             height={220}
-            className="object-cover w-full h-[220px] sm:h-[280px] md:h-[420px] rounded-xl"
+            className="object-cover w-full h-[220px] sm:h-[280px] md:h-[440px] rounded-xl"
           />
         </div>
         <Image
-          src={home.imageUrl}
+          src={home.imageUrl2}
           alt="bedroom"
           width={300}
           height={220}
-          className="rounded-xl w-full h-[200px] object-cover"
+          className="rounded-xl w-full h-[220px] object-cover"
         />
         <Image
           src={home.imageUrl}
           alt="kitchen"
           width={300}
           height={220}
-          className="rounded-xl w-full h-[200px] object-cover"
+          className="rounded-xl w-full h-[220px] object-cover"
         />
         <Image
           src={home.imageUrl}
@@ -55,7 +55,7 @@ export default async function HomeDetailPage(_props) {
 
       <div className="mt-6">
         <h1 className="text-2xl font-semibold">
-          Entire rental unit in Lahore, Pakistan
+          Entire rental unit in Pakistan
         </h1>
         <p className="text-gray-600 mt-1">
           4 guests · 1 bedroom · 1 bed · 1 bath
