@@ -65,7 +65,7 @@ export default function Navbar() {
           </div>
 
           <div className="flex items-center gap-4 cursor-pointer">
-            <div className="text-sm font-medium hover:text-black text-gray-600">
+            <div className="hidden sm:block text-sm font-medium hover:text-black text-gray-600">
               Become a host
             </div>
             <div className="bg-neutral-200 p-2 rounded-full">

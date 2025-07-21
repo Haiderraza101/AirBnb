@@ -1,11 +1,11 @@
-import { homes } from "@/data";
+import { homesinIslamabad } from "@/data";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 
 export default async function HomeDetailPage(_props) {
   const { params } = await _props;
 
-  const home = homes.find((h) => h.id.toString() === params.homeid);
+  const home = homesinIslamabad.find((h) => h.id.toString() === params.homeid);
   if (!home) return notFound();
 
   return (
@@ -65,8 +65,8 @@ export default async function HomeDetailPage(_props) {
         <div className="flex items-center gap-3 text-sm bg-gray-100 px-4 py-2 rounded-lg w-fit">
           <span className="text-yellow-500 text-xl">🏅</span>
           <span>
-            <strong>Guest favorite</strong> · One of the most loved homes on
-            Airbnb, according to guests
+            <strong>Guest favorite</strong> · One of the most loved
+            homesinIslamabad on Airbnb, according to guests
           </span>
         </div>
         <div className="flex items-center gap-6 text-sm">

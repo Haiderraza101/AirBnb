@@ -266,3 +266,94 @@ export const photography = [
   }
 ];
 
+
+export const homesinIslamabad = [
+  {
+    id: 1,
+    title: "Condo in Islamabad",
+    price: "$62 for 2 nights",
+    rating: "5.0",
+    imageUrl: "/isb1.png",
+    imageUrl2: "/isb1bedroom.png",
+    imageUrl3: "/isb1kitchen.png",
+    imageUrl4: "/isb1bathroom.png",
+    imageUrl5: "/isb1exterior.png"
+  },
+  {
+    id: 2,
+    title: "Apartment in Islamabad",
+    price: "$66 for 2 nights",
+    rating: "4.95",
+    imageUrl: "/isb2.png",
+    imageUrl2: "/isb2bedroom.png",
+    imageUrl3: "/isb2kitchen.png",
+    imageUrl4: "/isb2bathroom.png",
+    imageUrl5: "/isb2exterior.png"
+  },
+  {
+    id: 3,
+    title: "Room in Islamabad",
+    price: "$92 for 2 nights",
+    rating: "4.94",
+    imageUrl: "/isb3.png",
+    imageUrl2: "/isb3bedroom.png",
+    imageUrl3: "/isb3kitchen.png",
+    imageUrl4: "/isb3bathroom.png",
+    imageUrl5: "/isb3exterior.png"
+  },
+  {
+    id: 4,
+    title: "Guest suite in Islamabad",
+    price: "$53 for 2 nights",
+    rating: "4.87",
+    imageUrl: "/isb4.png",
+    imageUrl2: "/isb4bedroom.png",
+    imageUrl3: "/isb4kitchen.png",
+    imageUrl4: "/isb4bathroom.png",
+    imageUrl5: "/isb4exterior.png"
+  },
+  {
+    id: 5,
+    title: "Apartment in Islamabad",
+    price: "$177 for 2 nights",
+    rating: "5.0",
+    imageUrl: "/isb5.png",
+    imageUrl2: "/isb5bedroom.png",
+    imageUrl3: "/isb5kitchen.png",
+    imageUrl4: "/isb5bathroom.png",
+    imageUrl5: "/isb5exterior.png"
+  },
+  {
+    id: 6,
+    title: "Apartment in Islamabad",
+    price: "$87 for 2 nights",
+    rating: "4.9",
+    imageUrl: "/isb6.png",
+    imageUrl2: "/isb6bedroom.png",
+    imageUrl3: "/isb6kitchen.png",
+    imageUrl4: "/isb6bathroom.png",
+    imageUrl5: "/isb6exterior.png"
+  },
+  {
+    id: 7,
+    title: "Apartment in Islamabad",
+    price: "$58 for 2 nights",
+    rating: "5.0",
+    imageUrl: "/isb7.png",
+    imageUrl2: "/isb7bedroom.png",
+    imageUrl3: "/isb7kitchen.png",
+    imageUrl4: "/isb7bathroom.png",
+    imageUrl5: "/isb7exterior.png"
+  },
+  {
+    id: 8,
+    title: "Apartment in Islamabad",
+    price: "$97 for 2 nights",
+    rating: "4.9",
+    imageUrl: "/isb8.png",
+    imageUrl2: "/isb8bedroom.png",
+    imageUrl3: "/isb8kitchen.png",
+    imageUrl4: "/isb8bathroom.png",
+    imageUrl5: "/isb8exterior.png"
+  }
+];
