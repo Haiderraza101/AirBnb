@@ -28,23 +28,23 @@ export default async function HomeDetailPage(_props) {
           className="rounded-xl w-full h-[220px] object-cover"
         />
         <Image
-          src={home.imageUrl}
+          src={home.imageUrl3}
           alt="kitchen"
           width={300}
           height={220}
           className="rounded-xl w-full h-[220px] object-cover"
         />
         <Image
-          src={home.imageUrl}
-          alt="window"
+          src={home.imageUrl4}
+          alt="bathroom"
           width={300}
           height={220}
           className="rounded-xl w-full h-[200px] object-cover"
         />
         <div className="relative rounded-xl overflow-hidden">
           <Image
-            src={home.imageUrl}
-            alt="TV room"
+            src={home.imageUrl5}
+            alt="Exterior"
             width={300}
             height={220}
             className="w-full h-[200px] object-cover"
@@ -58,7 +58,7 @@ export default async function HomeDetailPage(_props) {
           Entire rental unit in Pakistan
         </h1>
         <p className="text-gray-600 mt-1">
-          4 guests · 1 bedroom · 1 bed · 1 bath
+          4 guests · 1 bedroom · 1 bed · 1 bath . 1 Kitchen
         </p>
       </div>
 

@@ -123,7 +123,10 @@ export const homes = [
     price: "$78 for 2 nights",
     rating: "5.0",
     imageUrl: "/home1.png",
-    imageUrl2:"/home1bedroom.png"
+    imageUrl2:"/home1bedroom.png",
+    imageUrl3:"/home1kitchen.png",
+    imageUrl4:"/home1bathroom.png",
+    imageUrl5:"/home1exterior.png"
   },
   {
     id: 2,
@@ -131,44 +134,67 @@ export const homes = [
     price: "$90 for 2 nights",
     rating: "4.94",
     imageUrl: "/home2.png",
+    imageUrl2:"/home2bedroom.png",
+    imageUrl3:"/home2kitchen.png",
+    imageUrl4:"/home2bathroom.png",
+    imageUrl5:"/home2exterior.png"
   },
   {
     id: 3,
     title: "Condo in Lahore",
     price: "$63 for 2 nights",
     rating: "4.93",
-    imageUrl: "/images/condo2.jpg",
+    imageUrl: "/home3.png",
+    imageUrl2:"/home3bedroom.png",
+    imageUrl3:"/home3kitchen.png",
+    imageUrl4:"/home3bathroom.png",
+    imageUrl5:"/home3exterior.png"
   },
   {
     id: 4,
     title: "Apartment in Lahore",
     price: "$66 for 2 nights",
     rating: "4.99",
-    imageUrl: "/images/apartment2.jpg",
+   imageUrl: "/home4.png",
+    imageUrl2:"/home4bedroom.png",
+    imageUrl3:"/home4kitchen.png",
+    imageUrl4:"/home4bathroom.png",
+    imageUrl5:"/home4exterior.png"
   },
   {
     id: 5,
     title: "Condo in Lahore",
     price: "$99 for 2 nights",
     rating: "4.97",
-    imageUrl: "/images/condo3.jpg",
+     imageUrl: "/home5.png",
+    imageUrl2:"/home5bedroom.png",
+    imageUrl3:"/home5kitchen.png",
+    imageUrl4:"/home5bathroom.png",
+    imageUrl5:"/home5exterior.png"
   },
   {
     id: 6,
     title: "Apartment in Lahore",
     price: "$58 for 2 nights",
     rating: "5.0",
-    imageUrl: "/images/apartment3.jpg",
+     imageUrl: "/home6.png",
+    imageUrl2:"/home6bedroom.png",
+    imageUrl3:"/home6kitchen.png",
+    imageUrl4:"/home6bathroom.png",
+    imageUrl5:"/home6exterior.png"
   },
   {
     id: 7,
     title: "Apartment in Lahore",
     price: "$60 for 2 nights",
     rating: "4.94",
-    imageUrl: "/images/apartment4.jpg",
+     imageUrl: "/home7.png",
+    imageUrl2:"/home7bedroom.png",
+    imageUrl3:"/home7kitchen.png",
+    imageUrl4:"/home7bathroom.png",
+    imageUrl5:"/home7exterior.png"
   },
 ];
-
 
 
 export const photography = [
