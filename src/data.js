@@ -406,3 +406,88 @@ export const experienceindubai = [
     imageUrl3: "/dubai8c.png"
   }
 ];
+
+
+export const chefs = [
+  {
+    id: 1,
+    title: "Hyperlocal, foraged fare by Chair",
+    price: "From $49 / guest",
+    minimum: "$110 minimum",
+    rating: "5.0",
+    imageUrl: "/chef1a.png",
+    imageUrl2: "/chef1b.png",
+    imageUrl3: "/chef1c.png"
+  },
+  {
+    id: 2,
+    title: "The Vegan Experience Plant Based Private Chef",
+    price: "From $50 / guest",
+    minimum: "$100 minimum",
+    rating: "5.0",
+    imageUrl: "/chef2a.png",
+    imageUrl2: "/chef2b.png",
+    imageUrl3: "/chef2c.png"
+  },
+  {
+    id: 3,
+    title: "Mediterranean by Liza",
+    price: "From $25 / guest",
+    minimum: "$150 minimum",
+    rating: "4.8",
+    imageUrl: "/chef3a.png",
+    imageUrl2: "/chef3b.png",
+    imageUrl3: "/chef3c.png"
+  },
+  {
+    id: 4,
+    title: "Southern Soul with a French Twist by Chef Ponder",
+    price: "From $56 / guest",
+    minimum: "$90 minimum",
+    rating: "5.0",
+    imageUrl: "/chef4a.png",
+    imageUrl2: "/chef4b.png",
+    imageUrl3: "/chef4c.png"
+  },
+  {
+    id: 5,
+    title: "Wholesome flavors by Fernando",
+    price: "From $88 / guest",
+    minimum: "$427 minimum",
+    rating: "4.6",
+    imageUrl: "/chef5a.png",
+    imageUrl2: "/chef5b.png",
+    imageUrl3: "/chef5c.png"
+  },
+  {
+    id: 6,
+    title: "A Poetry of Taste by Oscar",
+    price: "From $128 / guest",
+    minimum: "$300 minimum",
+    rating: "4.9",
+    imageUrl: "/chef6a.png",
+    imageUrl2: "/chef6b.png",
+    imageUrl3: "/chef6c.png"
+  },
+  {
+    id: 7,
+    title: "Catalan cuisine by Cristina",
+    price: "From $47 / guest",
+    minimum: "$120 minimum",
+    rating: "4.7",
+    imageUrl: "/chef7a.png",
+    imageUrl2: "/chef7b.png",
+    imageUrl3: "/chef7c.png"
+  },
+  {
+    id: 8,
+    title: "International gourmet fusion by Brian",
+    price: "From $65 / guest",
+    minimum: "$180 minimum",
+    rating: "4.5",
+    imageUrl: "/chef8a.png",
+    imageUrl2: "/chef8b.png",
+    imageUrl3: "/chef8c.png"
+  }
+];
+
