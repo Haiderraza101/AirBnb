@@ -1,4 +1,4 @@
-import { airbnboriginals } from "@/data";
+import { experienceinlondon } from "@/data";
 import ExperienceCard from "../../components/ExperienceCard";
 import Link from "next/link";
 
@@ -6,19 +6,19 @@ export default function ExperiencesPage() {
   return (
     <div>
       <h2 className="text-lg font-semibold mt-8 mb-4 ml-8">
-        Airbnb Originals{" "}
+        Experiences in London{" "}
         <Link className="text-sm text-black" href="/AllExperiences">
           &gt;
         </Link>
       </h2>
       <div className="flex gap-4 overflow-x-auto pb-4 scrollbar-hide ml-2 px-6">
-        {airbnboriginals.map((originals) => (
+        {experienceinlondon.map((london) => (
           <Link
-            key={originals.id}
+            key={london.id}
             className="cursor-pointer"
-            href={`/Originals/${originals.id}`}
+            href={`/London/${london.id}`}
           >
-            <ExperienceCard originals={originals} />
+            <ExperienceCard parameter={london} />
           </Link>
         ))}
       </div>

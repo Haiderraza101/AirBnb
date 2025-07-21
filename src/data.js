@@ -1,120 +1,77 @@
-// data.js
-
-export const airbnboriginals = [
+export const experienceinlondon = [
   {
     id: 1,
-    title: "Lunch with fashion icon Lenny Niemeyer in her home",
-    price: "From $102 / guest",
-    location: "Rio de Janeiro, Brazil",
-    host: "Lenny Niemeyer",
-    imageUrl:"/"
+    title: "London sightseeing walking tour with 30 sights",
+    price: "From $25 / guest",
+    rating: "4.96",
+    imageUrl: "/london1a.png",
+    imageUrl2: "/london1b.png",
+    imageUrl3: "/london1c.png"
   },
   {
     id: 2,
-    title: "Learn timeless skincare rituals with Giselle Go",
-    price: "From $192 / guest",
-    location: "Minato City, Japan",
-    host: "Giselle Go",
-    imageUrl:"/"
+    title: "Walk London with a local - in easy English",
+    price: "From $20 / guest",
+    rating: "4.98",
+     imageUrl: "/london2a.png",
+    imageUrl2: "/london2b.png",
+    imageUrl3: "/london2c.png"
   },
   {
     id: 3,
-    title: "Make jewelry with fashion designer Susan Korn",
-    price: "From $125 / guest",
-    location: "New York, United States",
-    host: "Susan Korn",
-    imageUrl:"/"
+    title: "Explore the hidden pubs of London",
+    price: "From $39 / guest",
+    rating: "4.96",
+    imageUrl: "/london3a.png",
+    imageUrl2: "/london3b.png",
+    imageUrl3: "/london3c.png"
   },
   {
     id: 4,
-    title: "Deepen your intimacy skills with Dr Emily Morse",
-    price: "From $150 / guest",
-    location: "West Hollywood, United States",
-    host: "Dr Emily Morse",
-    imageUrl:"/"
+    title: "Top-Rated London Harry Potter Tour-No Cost for Kid",
+    price: "From $17 / guest",
+    rating: "4.87",
+   imageUrl: "/london4a.png",
+    imageUrl2: "/london4b.png",
+    imageUrl3: "/london4c.png"
   },
   {
     id: 5,
-    title: "Create seasonal ikebana with Watarai Toru",
-    price: "From $97 / guest",
-    location: "Kamakura, Japan",
-    host: "Watarai Toru",
-    imageUrl:"/"
+    title: "Harry Potter's London",
+    price: "From $21 / guest",
+    rating: "4.95",
+    imageUrl: "/london5a.png",
+    imageUrl2: "/london5b.png",
+    imageUrl3: "/london5c.png"
   },
   {
     id: 6,
-    title: "Cycle Tour de France route with Philippe Gilbert",
-    price: "From $203 / guest",
-    location: "Reugney, France",
-    host: "Philippe Gilbert",
-    imageUrl:"/"
+    title: "Obi's African and Caribbean Food Tour in Brixton",
+    price: "From $101 / guest",
+    rating: "5.0",
+    imageUrl: "/london6a.png",
+    imageUrl2: "/london6b.png",
+    imageUrl3: "/london6c.png"
   },
   {
     id: 7,
-    title: "Bike Alpine trails with Olympian Arianna Fontana",
-    price: "From $30 / guest",
-    location: "Mantello, Italy",
-    host: "Arianna Fontana",
-    imageUrl:"/"
+    title: "Walk London's sights with a retired royal guard",
+    price: "From $38 / guest",
+    rating: "4.98",
+    imageUrl: "/london7a.png",
+    imageUrl2: "/london7b.png",
+    imageUrl3: "/london7c.png"
   },
   {
     id: 8,
-    title: "Cold contact karaoke with the LALANDROP DAY",
-    price: "$50 / guest",
-    location: "New York, United States",
-    host: "LALANDROP DAY",
-    imageUrl:"/"
-  },
-  {
-    id: 9,
-    title: "Recharge off the court with Gabe Vincent",
-    price: "From $200 / guest",
-    location: "Los Angeles, United States",
-    host: "Gabe Vincent",
-    imageUrl:"/"
-  },
-  {
-    id: 10,
-    title: "Hit the ice with Paralympian Andrea Macri",
-    price: "From $30 / guest",
-    location: "Turin, Italy",
-    host: "Andrea Macri",
-    imageUrl:"/"
-  },
-  {
-    id: 11,
-    title: "Up your street art skills with Bio's Marcelo Menci",
-    price: "From $51 / guest",
-    location: "Rio de Janeiro, Brazil",
-    host: "Marcelo Menci",
-    imageUrl:"/"
-  },
-  {
-    id: 12,
-    title: "Hear Star Line first with Chance the Rapper",
-    price: "From $110 / guest",
-    location: "Chicago, United States",
-    host: "Chance the Rapper",
-    imageUrl:"/"
-  },
-  {
-    id: 13,
-    title: "Immerse in squid and sound at a Laurent house",
-    price: "From $150 / guest",
-    location: "Los Angeles, United States",
-    host: "Laurent",
-    imageUrl:"/"
-  },
-  {
-    id: 14,
-    title: "Fence and take photos with Olympian Enzo Lefort",
-    price: "From $148 / guest",
-    location: "Paris, France",
-    host: "Enzo Lefort",
-    imageUrl:"/"
+    title: "London with an Urban Planner",
+    price: "From $52 / guest",
+    rating: "4.97",
+   imageUrl: "/london8a.png",
+    imageUrl2: "/london8b.png",
+    imageUrl3: "/london8c.png"
   }
 ];
-
 
 export const homes = [
   {
