@@ -152,7 +152,7 @@ export const homes = [
     imageUrl5:"/home7exterior.png"
   },
    {
-    id: 5,
+    id: 8,
     title: "Condo in Lahore",
     price: "$99 for 2 nights",
     rating: "4.97",
@@ -163,7 +163,7 @@ export const homes = [
     imageUrl5:"/home5exterior.png"
   },
   {
-    id: 4,
+    id: 9,
     title: "Apartment in Lahore",
     price: "$66 for 2 nights",
     rating: "4.99",
