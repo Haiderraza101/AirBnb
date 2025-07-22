@@ -151,6 +151,28 @@ export const homes = [
     imageUrl4:"/home7bathroom.png",
     imageUrl5:"/home7exterior.png"
   },
+   {
+    id: 5,
+    title: "Condo in Lahore",
+    price: "$99 for 2 nights",
+    rating: "4.97",
+     imageUrl: "/home5.png",
+    imageUrl2:"/home5bedroom.png",
+    imageUrl3:"/home5kitchen.png",
+    imageUrl4:"/home5bathroom.png",
+    imageUrl5:"/home5exterior.png"
+  },
+  {
+    id: 4,
+    title: "Apartment in Lahore",
+    price: "$66 for 2 nights",
+    rating: "4.99",
+   imageUrl: "/home4.png",
+    imageUrl2:"/home4bedroom.png",
+    imageUrl3:"/home4kitchen.png",
+    imageUrl4:"/home4bathroom.png",
+    imageUrl5:"/home4exterior.png"
+  },
 ];
 
 
