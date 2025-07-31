@@ -73,7 +73,7 @@ export default function Home() {
           <div>
             <h2 className=" text-xl font-semibold mt-0 mb-4  md:ml-24 sm:ml-12 ml-8">
               Popular homes in Islamabad{" "}
-              <Link className="text-sm" href="/AllHomesinLahore">
+              <Link className="text-sm" href="/AllHomesinIslamabad">
                 &gt;
               </Link>
             </h2>
@@ -161,7 +161,7 @@ export default function Home() {
           <div>
             <h2 className=" text-xl font-semibold mt-0 mb-4  md:ml-20 sm:ml-12 ml-8">
               Popular homes in Islamabad{" "}
-              <Link className="text-sm" href="/AllHomesinLahore">
+              <Link className="text-sm" href="/AllHomesinIslamabad">
                 &gt;
               </Link>
             </h2>
